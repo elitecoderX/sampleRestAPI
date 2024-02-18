@@ -40,7 +40,8 @@ Congratulations, Now this API is ready to run on your local machine!
 
 After setting up the project, you'll need to create the database tables and apply migrations. Here's how you can do it:
 ```bash
-python manage.py makemigrations
+python manage.py makemigrations sampleRestAPI
+python manage.py migrate
 ```
 
 ### Run the API on your local machine
