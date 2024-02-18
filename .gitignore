@@ -1,4 +1,6 @@
 Pipfile.lock
 __pycache__/
+migrations/
 .vscode/
 db.sqlite3
+data.json
